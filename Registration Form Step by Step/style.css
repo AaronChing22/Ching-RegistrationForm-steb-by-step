@@ -1,0 +1,30 @@
+.body {
+	background-color: #d3edf6;
+}
+table, tr, td{
+	width: 600px;
+	border : solid 2px;
+	border-collapse: collapse;
+	padding: 10px;
+
+}
+
+textarea.textarea {
+	max-height: 100px;
+	min-height: 100px;
+	max-width: 600px;
+	min-width: 600px;
+}
+
+div.table-align {
+	margin-right: auto;
+	margin-left: auto;
+	width: 50%;
+}
+
+.student-reg {
+	text-align: center;
+	font-size: 40px;
+	font-weight: bold;
+	padding: 10px;
+}
